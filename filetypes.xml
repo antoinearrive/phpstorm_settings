@@ -1,9 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern="NomadismeApc.ts" type="PLAIN_TEXT" />
       <mapping pattern="git" type="PLAIN_TEXT" />
-      <mapping pattern="Nomadisme" type="TypeScript" />
+      <mapping pattern="NomadismeApc.ts" type="PLAIN_TEXT" />
+      <removed_mapping pattern="Nomadisme" approved="true" type="TypeScript" />
     </extensionMap>
   </component>
 </application>
